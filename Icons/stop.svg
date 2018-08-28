@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="96px" viewBox="0 0 90 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>stop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="create-wallet-(JSON)-error" transform="translate(-673.000000, -319.000000)" fill-rule="nonzero">
+            <g id="stop" transform="translate(673.000000, 322.000000)">
+                <rect id="Rectangle-3" fill="#003945" x="0" y="83" width="90" height="10" rx="5"></rect>
+                <path d="M37.2504194,0 L52.4433835,3.99680289e-15 C53.779048,3.75144531e-15 54.9538436,0.883023498 55.3251392,2.16604303 L78.5058734,82.2675529 C78.9664551,83.8591026 78.0496244,85.5226838 76.4580747,85.9832655 C76.187033,86.0617028 75.9062808,86.1015099 75.6241177,86.1015099 L15,86.1015099 C13.3431458,86.1015099 12,84.7583641 12,83.1015099 C12,82.8301479 12.0368179,82.5600404 12.1094463,82.2985783 L34.3598657,2.19706841 C34.7205488,0.898609114 35.902796,2.60333805e-15 37.2504194,3.55271368e-15 Z" id="Rectangle-2" stroke="#003945" stroke-width="5"></path>
+                <polygon id="Rectangle-33" stroke="#003945" stroke-width="5" fill="#05C0A5" points="28.7001163 23 60.6 23 64.6 37 25 37"></polygon>
+                <polygon id="Rectangle-33" stroke="#003945" stroke-width="5" fill="#05C0A5" points="20.1778667 54 70.3 54 74.8 69.4864865 15.85 69.4864865"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

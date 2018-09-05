@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ledger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-121.000000, -5411.000000)">
+            <g id="icons">
+                <g transform="translate(72.000000, 4681.000000)">
+                    <g id="ledger" transform="translate(51.000000, 732.000000)">
+                        <g>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="1" y="24" width="14" height="14"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="23" y="46" width="14" height="14"></rect>
+                            <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" points="0 46 14 46 14 60 3.77974231 57.0399969"></polygon>
+                            <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(7.000000, 8.000000) scale(1, -1) translate(-7.000000, -8.000000) " points="0 1 14 1 14 15 3.77974231 12.0399969"></polygon>
+                            <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(54.000000, 53.000000) scale(-1, 1) translate(-54.000000, -53.000000) " points="47 46 61 46 61 60 50.7797423 57.0399969"></polygon>
+                            <g transform="translate(1.124031, 0.000000)">
+                                <polygon id="Path-2" fill="#05C0A5" points="23 0 23 37 59 37 59 7.1080303 53.0890868 0"></polygon>
+                                <g transform="translate(0.000000, 1.000000)" fill-rule="nonzero" id="Shape" stroke="#003945" stroke-width="4.8">
+                                    <path d="M49.672466,0 L22.4485628,0 L22.4485628,36.4171902 L58.985163,36.4171902 L58.9851236,9.47499372 C59,4.35938678 54.8048411,5.2679092e-16 49.672466,0 Z M14.087998,0 L9.52092789,0 C4.3885527,0 0,4.16662478 0,9.48982156 L0,14.0419703 L14.087998,14.0419703 L14.087998,0 Z M0,22.5679819 L14.087998,22.5679819 L14.087998,36.6099522 L0,36.6099522 L0,22.5679819 Z M44.912002,58.9851722 L49.4790721,58.9851722 C54.6114473,58.9851722 59,54.8185474 59,49.4953506 L59,44.9580297 L44.912002,44.9580297 L44.912002,58.9851722 Z M22.4485628,44.9580297 L36.5365608,44.9580297 L36.5365608,59 L22.4485628,59 L22.4485628,44.9580297 Z M0,44.9580297 L0,49.5101784 C0,54.6257854 4.1802824,59 9.52092789,59 L14.087998,59 L14.087998,44.9580297 L0,44.9580297 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

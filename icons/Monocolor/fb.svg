@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>fb1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-1148.000000, -8187.000000)" fill-rule="nonzero">
+            <g id="others">
+                <g transform="translate(64.000000, 5809.000000)">
+                    <g id="Share-to" transform="translate(1084.000000, 2317.000000)">
+                        <g id="Group-32">
+                            <g id="Group-18" transform="translate(0.000000, 61.000000)">
+                                <g id="fb1">
+                                    <path d="M25,1 C11.7444722,1 1,11.7444722 1,25 C1,38.2545146 11.7450215,49 25,49 C38.2549785,49 49,38.2545146 49,25 C49,11.7444722 38.2555278,1 25,1 Z" id="Shape" stroke="#B3B6BA" stroke-width="2"></path>
+                                    <path d="M21.390625,38.9109375 L27.1390625,38.9109375 L27.1390625,24.9984375 L30.9734375,24.9984375 L31.48125,20.2046875 L27.1390625,20.2046875 L27.1453125,17.8046875 C27.1453125,16.5546875 27.2640625,15.884375 29.0578125,15.884375 L31.4546875,15.884375 L31.4546875,11.0890625 L27.61875,11.0890625 C23.0109375,11.0890625 21.390625,13.415625 21.390625,17.3265625 L21.390625,20.2046875 L18.51875,20.2046875 L18.51875,25 L21.390625,25 L21.390625,38.9109375 Z" id="Shape" fill="#B3B6BA"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

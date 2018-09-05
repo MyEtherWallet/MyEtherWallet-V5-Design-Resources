@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="63px" viewBox="0 0 60 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>stop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-1166.000000, -5410.000000)">
+            <g id="icons">
+                <g transform="translate(72.000000, 4681.000000)">
+                    <g id="stop" transform="translate(1094.000000, 732.000000)">
+                        <g>
+                            <path d="M3.5,53 L56.5,53 C58.4329966,53 60,54.5670034 60,56.5 L60,56.5 C60,58.4329966 58.4329966,60 56.5,60 L3.5,60 C1.56700338,60 2.36723813e-16,58.4329966 0,56.5 L0,56.5 C-2.36723813e-16,54.5670034 1.56700338,53 3.5,53 Z" id="Rectangle-3" fill="#003945" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="8.81842307 55.6937073 51.6365155 55.6937073 36.0015758 1.42265231 23.6624223 1.42265231"></polygon>
+                            <path d="M24.6757254,0 L34.7093685,2.59950101e-15 C35.5914598,2.43992164e-15 36.367311,0.574314155 36.6125198,1.40878377 L51.9213965,53.5064132 C52.225571,54.5415493 51.6200833,55.6235343 50.569002,55.9230944 C50.3900023,55.9741097 50.2045897,56 50.0182452,56 L9.9812414,56 C8.88703202,56 8,55.1264246 8,54.0488147 C8,53.8723222 8.02431505,53.6966456 8.07227985,53.5265919 L22.7667638,1.42896252 C23.0049639,0.584450963 23.7857363,1.69319831e-15 24.6757254,0 Z" id="Rectangle-2" stroke="#003945" stroke-width="4.6"></path>
+                            <polygon id="Rectangle-33" stroke="#003945" stroke-width="4.6" fill="#05C0A5" fill-rule="nonzero" points="19.8 13 39.3737374 13 42 22 17 22"></polygon>
+                            <polygon id="Rectangle-33" stroke="#003945" stroke-width="4.6" fill="#05C0A5" fill-rule="nonzero" points="13.8632197 34 46.0229008 34 49 44 11 44"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

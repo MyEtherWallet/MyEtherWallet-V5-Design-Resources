@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="66px" viewBox="0 0 55 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Mnemonic</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-902.000000, -5597.000000)">
+            <g id="icons">
+                <g transform="translate(72.000000, 4681.000000)">
+                    <g id="Mnemonic" transform="translate(830.000000, 916.000000)">
+                        <g>
+                            <rect id="Rectangle-11-Copy" stroke="#003945" stroke-width="4.8" fill="#FFFFFF" x="2.4" y="2.4" width="49.9299509" height="60.8759411" rx="3"></rect>
+                            <g id="Group-2" transform="translate(12.770322, 14.594654)">
+                                <ellipse id="Oval-2" fill="#003945" cx="3.63868237" cy="3.63336255" rx="3.63868237" ry="3.63336255"></ellipse>
+                                <ellipse id="Oval-2" fill="#003945" cx="3.63868237" cy="19.2049163" rx="3.63868237" ry="3.63336255"></ellipse>
+                                <ellipse id="Oval-2" fill="#003945" cx="3.63868237" cy="33.7383665" rx="3.63868237" ry="3.63336255"></ellipse>
+                                <rect id="Rectangle-3" fill="#05C0A5" x="11.4358589" y="0.0381035848" width="17.6736001" height="7.19051792" rx="3.59525896"></rect>
+                                <rect id="Rectangle-3" fill="#05C0A5" x="11.4358589" y="15.6096574" width="17.6736001" height="7.19051792" rx="3.59525896"></rect>
+                                <rect id="Rectangle-3" fill="#05C0A5" x="11.4358589" y="30.1431075" width="17.6736001" height="7.19051792" rx="3.59525896"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

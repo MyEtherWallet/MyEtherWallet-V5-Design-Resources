@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="30px" viewBox="0 0 46 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>063-japan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-938.000000, -8593.000000)" fill-rule="nonzero">
+            <g id="others">
+                <g transform="translate(64.000000, 5809.000000)">
+                    <g id="flags" transform="translate(512.000000, 2715.000000)">
+                        <g id="Group-5" transform="translate(2.000000, 69.000000)">
+                            <g id="063-japan" transform="translate(360.000000, 0.000000)">
+                                <path d="M42.5549414,0.0245535714 L3.44505859,0.0245535714 C1.54234766,0.0245535714 0,1.55732143 0,3.44821429 L0,26.5517857 C0,28.4425893 1.54234766,29.9754464 3.44505859,29.9754464 L42.5549414,29.9754464 C44.4575625,29.9754464 46,28.4426786 46,26.5517857 L46,3.44821429 C46,1.55732143 44.4576523,0.0245535714 42.5549414,0.0245535714 Z" id="Shape" fill="#F5F5F5"></path>
+                                <ellipse id="Oval" fill="#FF4B55" cx="23" cy="14.9999107" rx="8.72382813" ry="8.66964286"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

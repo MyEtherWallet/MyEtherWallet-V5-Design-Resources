@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="30px" viewBox="0 0 46 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>248-russia</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-722.000000, -8593.000000)" fill-rule="nonzero">
+            <g id="others">
+                <g transform="translate(64.000000, 5809.000000)">
+                    <g id="flags" transform="translate(512.000000, 2715.000000)">
+                        <g id="Group-5" transform="translate(2.000000, 69.000000)">
+                            <g id="248-russia" transform="translate(144.000000, 0.000000)">
+                                <path d="M42.5549414,0.0246428571 L3.44505859,0.0246428571 C1.54234766,0.0246428571 0,1.55741071 0,3.44830357 L0,10.0082143 L46,10.0082143 L46,3.44830357 C46,1.55741071 44.4576523,0.0246428571 42.5549414,0.0246428571 Z" id="Shape" fill="#F5F5F5"></path>
+                                <path d="M0,26.5516964 C0,28.4425 1.54234766,29.9753571 3.44505859,29.9753571 L42.5549414,29.9753571 C44.4575625,29.9753571 46,28.4425893 46,26.5516964 L46,19.9917857 L0,19.9917857 L0,26.5516964 Z" id="Shape" fill="#FF4B55"></path>
+                                <rect id="Rectangle-path" fill="#41479B" x="0" y="10.0080357" width="46" height="9.98303571"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

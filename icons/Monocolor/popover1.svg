@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>radio</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-1196.000000, -4037.000000)">
+            <g id="others">
+                <g transform="translate(69.000000, 3857.000000)">
+                    <g id="popover" transform="translate(1103.000000, 0.000000)">
+                        <g id="normal" transform="translate(0.000000, 180.000000)">
+                            <g id="radio" transform="translate(24.000000, 0.000000)">
+                                <circle id="Oval-2" fill="#999999" cx="17.5" cy="17.5" r="17.5"></circle>
+                                <text id="!" font-family="AvenirNext-Bold, Avenir Next" font-size="24" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="14" y="26">!</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="33px" viewBox="0 0 34 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>explanation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-638.000000, -6375.000000)">
+            <g id="others">
+                <g transform="translate(64.000000, 5809.000000)">
+                    <g id="4-boxes" transform="translate(0.000000, 480.000000)">
+                        <g id="Group-17" transform="translate(335.000000, 0.000000)">
+                            <g id="MEWconnect-active" transform="translate(0.666667, 65.000000)">
+                                <g id="explanation" transform="translate(240.000000, 22.000000)">
+                                    <circle id="Oval-2" stroke="#FFFFFF" stroke-width="2" cx="15.5" cy="15.5" r="15.5"></circle>
+                                    <text id="?" font-family="AvenirNext-Medium, Avenir Next" font-size="18" font-weight="400" fill="#FFFFFF">
+                                        <tspan x="11.0909091" y="21.4090909">?</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

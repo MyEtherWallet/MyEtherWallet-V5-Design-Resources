@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="73px" viewBox="0 0 53 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>bitbox1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03---elements" transform="translate(-646.000000, -5406.000000)">
+            <g id="icons">
+                <g transform="translate(72.000000, 4681.000000)">
+                    <g id="bitbox1" transform="translate(576.000000, 727.000000)">
+                        <g>
+                            <polygon id="Path-13" fill="#FFFFFF" fill-rule="nonzero" points="1.16281194 37.3547309 25 47.9214304 48.824075 37.3547309 33.9220895 30.10043 33.9220895 5.88716779 25 0.41563902 15.1333113 5.88716779 15.1333113 30.8594187"></polygon>
+                            <g transform="translate(0.374677, 1.000000)">
+                                <polygon id="Path-7" fill="#05C0A5" points="0.293071069 38 24 47.0062798 24 67 0 56.4477647"></polygon>
+                                <polygon id="Path-7" fill="#05C0A5" transform="translate(36.000000, 52.500000) scale(-1, 1) translate(-36.000000, -52.500000) " points="24.2930711 38 48 47.0062798 48 67 24 56.4477647"></polygon>
+                                <g stroke="#003945" stroke-width="4.6">
+                                    <polygon id="Path-4" points="14.6360511 29.1679463 14.6360511 4.30843594 24.1762625 0 33.0470204 4.30843594 33.0470204 29.1679463 48.0827452 36.2932079 48.0827452 56.0842808 24.1762625 66.8259875 0 56.0842808 0 36.2932079"></polygon>
+                                    <polyline id="Path-5" points="0.40861486 37.2202946 24.2281422 46.6529044 47.5639577 37.2202946"></polyline>
+                                    <path d="M24.1395178,46.5031614 C24.1395178,59.4006854 24.1395178,65.8494474 24.1395178,65.8494474" id="Path-6"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

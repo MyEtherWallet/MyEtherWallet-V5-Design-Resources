@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>ETH</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer(desktop)" transform="translate(-945.000000, -172.000000)">
+            <g id="footer2">
+                <g id="welcome-donate-us3" transform="translate(946.000000, 173.000000)">
+                    <g id="Group-5">
+                        <g id="ETH">
+                            <path d="M26,13 C26,20.17977 20.17977,26 13,26 C5.82036,26 0,20.17977 0,13 C0,5.82023 5.82036,0 13,0 C20.17977,0 26,5.82023 26,13" id="Fill-506" stroke="#8799AB"></path>
+                            <g id="Group" transform="translate(7.526316, 3.421053)" fill="#8799AB">
+                                <polygon id="Fill-507" points="0.0821318713 11.441276 5.62548392 0.00440113798 5.62548392 14.3638905"></polygon>
+                                <polygon id="Fill-508" points="11.5271144 11.441276 5.96411795 14.3638905 5.96411795 0.000517780939"></polygon>
+                                <polygon id="Fill-509" points="0.0821318713 11.859643 5.62548392 14.6396088 5.62548392 19.1098706"></polygon>
+                                <polygon id="Fill-510" points="11.5271144 11.859643 5.96411795 19.1098706 5.96411795 14.6396088"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Checked 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="swap3" transform="translate(-658.000000, -292.000000)">
+            <g id="pop-out" transform="translate(510.000000, 257.000000)">
+                <g id="Checked-2" transform="translate(151.000000, 38.000000)">
+                    <g id="Checked">
+                        <circle id="Oval" stroke="#05C0A5" stroke-width="3" cx="59.5" cy="59.5" r="61"></circle>
+                        <g id="Check" transform="translate(29.750000, 37.187500)" fill="#05C0A5" fill-rule="nonzero">
+                            <polygon id="Shape" points="66.9375 8.22039474 22.3125 52.0625 0 30.1414474 8.3671875 21.9210526 22.3125 35.6217105 58.5703125 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

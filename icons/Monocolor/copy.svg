@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="26px" viewBox="0 0 21 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="address-box" transform="translate(-172.000000, -103.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Group-2" transform="translate(173.000000, 104.000000)">
+                <rect id="Rectangle" stroke-width="1.6" x="5.8" y="6.8" width="13.4" height="17.4" rx="2"></rect>
+                <path d="M5.01484743,18.159117 L2.03629378,18.159117 C1.01209793,18.159117 0.5,17.4570314 0.5,16.0528601 C0.5,14.6486889 0.5,10.0441655 0.5,2.23929001 C0.5,1.06599615 1.14750837,0.479349219 2.4425251,0.479349219 C3.73754183,0.479349219 7.15499523,0.479349219 12.6948853,0.479349219 C13.9084087,0.479349219 14.5151705,1.06599615 14.5151705,2.23929001 C14.5151705,3.41258387 14.5151705,4.7214379 14.5151705,6.16585209" id="Path-14" stroke-width="1.5"></path>
+                <path d="M9,14 L16,14" id="Line-5" stroke-width="1.6" stroke-linecap="round"></path>
+                <path d="M9,18 L14,18" id="Line-5" stroke-width="1.6" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
